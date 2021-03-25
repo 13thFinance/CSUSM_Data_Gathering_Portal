@@ -1,6 +1,6 @@
 
 VIDEO GUIDE: https://www.youtube.com/watch?v=FXesHw1R4JQ
-[![Video Guide](https://www.youtube.com/watch?v=FXesHw1R4JQ)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/FXesHw1R4JQ/0.jpg)](https://www.youtube.com/watch?v=FXesHw1R4JQ)
 
 Implicit Authentication CSUSM Research
 Thank you for participating in CSUSM's research on a new implicit authentication technique. This document covers the essential steps that need to be reproduced by the participant. The goal of performing these steps is to gather user data using the provided phone application.
