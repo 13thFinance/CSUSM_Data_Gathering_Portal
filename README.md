@@ -52,7 +52,9 @@ Position 1:
 Fill out our application information fields properly  
 Place phone in its positions facing towards you  
 Click Record  
-Lock phone by powering off the screen  
+
+start:  
+Lock phone by powering off the screen without picking up the phone  
 Pick up phone  
 Unlock Phone  
 Open Play Store ->  
@@ -61,9 +63,14 @@ Open Play Store ->
 	-> Scroll to bottom to premium apps ->   
 	-> Click on the 5th premium app(DO NOT DOWNLOAD) ->   
 	-> Close the Play Store  
-Reopen our application  
+Reopen our application
+
+hold the phone steady for 3 seconds minimum   
+place the phone back in its original position on the desk  
+wait for 2 seconds minimum  
+repeat from "start:" 10 times
+
 Stop recording  
-Repeat 15 times  
   
   
 Repeat for the rest of the positions(2-6)  
@@ -78,36 +85,36 @@ on day 2.
 In total you should end up with this number of files:  
 Day 1:  
 	PIN:  
-		Position 1: 15 files  
-		Position 2: 15 files  
-		Position 3: 15 files  
-		Position 4: 15 files  
-		Position 5: 15 files  
-		Position 6: 15 files  
+		Position 1: 1 file  
+		Position 2: 1 file  
+		Position 3: 1 file  
+		Position 4: 1 file  
+		Position 5: 1 file  
+		Position 6: 1 file  
 	Fingerprint or Pattern:  
-		Position 1: 15 files  
-		Position 2: 15 files  
-		Position 3: 15 files  
-		Position 4: 15 files  
-		Position 5: 15 files  
-		Position 6: 15 files  
+		Position 1: 1 file  
+		Position 2: 1 file  
+		Position 3: 1 file  
+		Position 4: 1 file  
+		Position 5: 1 file  
+		Position 6: 1 file  
 Day 2:  
 	PIN:  
-		Position 1: 15 files  
-		Position 2: 15 files  
-		Position 3: 15 files  
-		Position 4: 15 files  
-		Position 5: 15 files  
-		Position 6: 15 files  
+		Position 1: 1 file  
+		Position 2: 1 file  
+		Position 3: 1 file  
+		Position 4: 1 file  
+		Position 5: 1 file  
+		Position 6: 1 file  
 	Fingerprint or Pattern:  
-		Position 1: 15 files  
-		Position 2: 15 files  
-		Position 3: 15 files  
-		Position 4: 15 files  
-		Position 5: 15 files  
-		Position 6: 15 files  
+		Position 1: 1 file  
+		Position 2: 1 file  
+		Position 3: 1 file  
+		Position 4: 1 file  
+		Position 5: 1 file  
+		Position 6: 1 file  
   
-  For a total of 360 files. If you feel like any are missing or you made a mistake, simply redo the specific day, security type, and position as needed. Make sure the app fields match with the position you are redoing.  
+  For a total of 24 files, with 10 samples of picking up and putting down in each file. This makes a total of 240 samples. If you feel like any are missing or you made a mistake, simply redo the specific day, security type, and position as needed. Make sure the app fields match with the position you are redoing.  
   
   
   
