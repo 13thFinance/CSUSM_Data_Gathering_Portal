@@ -1,6 +1,4 @@
 
-VIDEO GUIDE: https://www.youtube.com/watch?v=FXesHw1R4JQ
-
 Implicit Authentication CSUSM Research
 Thank you for participating in CSUSM's research on a new implicit authentication technique. This document covers the essential steps that need to be reproduced by the participant. The goal of performing these steps is to gather user data using the provided phone application.
 
@@ -68,9 +66,12 @@ Reopen our application
 hold the phone steady for 3 seconds minimum   
 place the phone back in its original position on the desk  
 wait for 2 seconds minimum  
-repeat from "start:" 10 times
+repeat from "start:" 15 times
 
 Stop recording  
+
+Please refer to the below image:  
+![image](actions.png)  
   
   
 Repeat for the rest of the positions(2-6)  
@@ -114,7 +115,7 @@ Day 2:
 		Position 5: 1 file  
 		Position 6: 1 file  
   
-  For a total of 24 files, with 10 samples of picking up and putting down in each file. This makes a total of 240 samples. If you feel like any are missing or you made a mistake, simply redo the specific day, security type, and position as needed. Make sure the app fields match with the position you are redoing.  
+  For a total of 24 files, with 15 samples of picking up and putting down in each file. This makes a total of 360 samples. If you feel like any are missing or you made a mistake, simply redo the specific day, security type, and position as needed. Make sure the app fields match with the position you are redoing.  
   
   
   
